@@ -14,5 +14,5 @@ Compilation
 Usage
 -----
 
-`cat ./file ./caesar <encode/decode> <offset>`
+`cat ./file | ./caesar <encode/decode> <offset> > result.txt`
 
