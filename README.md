@@ -1,7 +1,7 @@
 Caesar
 ======
 
-Reads the input from stdin and writes the encrypted/decrypted output to the stdout.
+Applies the caesar cipher.
 
 
 Compilation
